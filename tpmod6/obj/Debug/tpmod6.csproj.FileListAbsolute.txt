@@ -1,0 +1,7 @@
+X:\TP KPL\tpmod6\tpmod6\bin\Debug\tpmod6.exe.config
+X:\TP KPL\tpmod6\tpmod6\bin\Debug\tpmod6.exe
+X:\TP KPL\tpmod6\tpmod6\bin\Debug\tpmod6.pdb
+X:\TP KPL\tpmod6\tpmod6\obj\Debug\tpmod6.csproj.AssemblyReference.cache
+X:\TP KPL\tpmod6\tpmod6\obj\Debug\tpmod6.csproj.CoreCompileInputs.cache
+X:\TP KPL\tpmod6\tpmod6\obj\Debug\tpmod6.exe
+X:\TP KPL\tpmod6\tpmod6\obj\Debug\tpmod6.pdb
